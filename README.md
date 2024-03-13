@@ -3,6 +3,8 @@
 [![DeepScan grade](https://deepscan.io/api/teams/23370/projects/26710/branches/851719/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=23370&pid=26710&bid=851719)
 [![DeepSource](https://app.deepsource.com/gh/IntegerAlex/efficient-sorting.svg/?label=resolved+issues&show_trend=true&token=Mq0EjM82kW9g-fqGW92fzEBe)](https://app.deepsource.com/gh/IntegerAlex/efficient-sorting/)
 [![CodeScene Code Health](https://codescene.io/projects/51175/status-badges/code-health)](https://codescene.io/projects/51175)
+![NPM Downloads](https://img.shields.io/npm/dt/efficient-sorting?style=plastic&logo=npm)
+![NPM Version](https://img.shields.io/npm/v/efficient-sorting)
 
 This project provides a JavaScript implementation of an efficient sorting function that dynamically determines the sorting method based on the characteristics of the input array.
 
