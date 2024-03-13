@@ -1,0 +1,14 @@
+{
+  "name": "efficient-sorting",
+  "version": "0.1.0",
+  "description": "A simple , efficient and es6 way to sort an array using quick sort and merge sort",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "keywords": ["es6", "sort", "array", "sort array", "sort array in es6", "sort array in es6 way","quick sort","merge sort"],
+  "author": "nigesh",
+  "license": "MIT"
+}
