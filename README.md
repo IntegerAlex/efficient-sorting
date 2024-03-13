@@ -12,6 +12,8 @@ This project provides a JavaScript implementation of an efficient sorting functi
 
 The goal of this project is to create a sorting function that intelligently selects the most suitable sorting algorithm based on the size and nature of the input array. By dynamically choosing between quicksort and mergesort, the function aims to optimize performance for different scenarios.
 
+- For now it only supports 1D array of any size
+
 ## Installation
 
 Install the efficient-sorting package using npm:
