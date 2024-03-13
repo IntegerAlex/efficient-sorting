@@ -36,3 +36,26 @@ To use the sorting function in your JavaScript project, follow these steps:
 
    ```bash
    git clone https://github.com/IntegerAlex/efficient-sorting.git
+   ```
+
+2. Install the dependencies:
+
+```bash
+npm install
+```
+
+3. Write your code.
+
+4. Run your code as you typically would using `npm`.
+
+### Via NPM
+
+1. Install the efficient-sorting package using npm:
+
+   ```bash
+   npm install efficient-sorting
+   ```
+
+2. Write your code.
+
+3. Run your code as you typically would using `npm`.
