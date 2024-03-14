@@ -38,10 +38,10 @@ To use the sorting function in your JavaScript project, follow these steps:
    git clone https://github.com/IntegerAlex/efficient-sorting.git
    ```
 
-2. Install the dependencies:
+2. Import the library in your code:
 
-```bash
-npm install
+```js
+import Sort from 'efficient-sorting'
 ```
 
 3. Write your code.
